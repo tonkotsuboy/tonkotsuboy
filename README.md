@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+
 # My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/tonkotsuboy/posts.svg)](http://qiita.com/tonkotsuboy)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/tonkotsuboy_com/posts.svg)](http://qiita.com/tonkotsuboy_com)
 # My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tonkotsuboy/contributions.svg)](http://qiita.com/tonkotsuboy)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tonkotsuboy_com/contributions.svg)](http://qiita.com/tonkotsuboy_com)
 # My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/tonkotsuboy/followers.svg)](http://qiita.com/tonkotsuboy)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/tonkotsuboy_com/followers.svg)](http://qiita.com/tonkotsuboy_com)
+
                 
