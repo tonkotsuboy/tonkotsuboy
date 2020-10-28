@@ -7,6 +7,9 @@ https://kano.codes/
 Twitter<br>
 https://twitter.com/tonkotsuboy_com
 
+ics.media<br>
+https://ics.media/
+
 JavaScriptコードレシピ集<br>
 https://ics.media/entry/19765/
 
