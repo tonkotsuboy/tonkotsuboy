@@ -1,3 +1,5 @@
+ポートフォリオ
+https://kano.codes/
 
 - ウェブ制作・アプリ開発
 - 「[JavaScriptコードレシピ集](https://ics.media/entry/19765/)」の著者
@@ -21,14 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-# My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/tonkotsuboy_com/posts.svg)](http://qiita.com/tonkotsuboy_com)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tonkotsuboy_com/contributions.svg)](http://qiita.com/tonkotsuboy_com)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/tonkotsuboy_com/followers.svg)](http://qiita.com/tonkotsuboy_com)
-
-                
