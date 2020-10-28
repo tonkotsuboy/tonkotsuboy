@@ -1,3 +1,6 @@
+自己紹介<br>
+https://kano.codes/about
+
 ポートフォリオ<br>
 https://kano.codes/
 
@@ -10,8 +13,8 @@ https://ics.media/entry/19765/
 Qiita<br>
 https://qiita.com/tonkotsuboy_com
 
-自己紹介<br>
-https://kano.codes/about
+codepen<br>
+https://codepen.io/tonkotsuboy
 
 <!--
 **tonkotsuboy/tonkotsuboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
