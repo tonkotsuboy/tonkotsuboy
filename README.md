@@ -7,7 +7,7 @@ https://kano.codes/
 Twitter<br>
 https://twitter.com/tonkotsuboy_com
 
-Zen<br>
+Zenn<br>
 https://zenn.dev/tonkotsuboy_com
 
 Qiita<br>
