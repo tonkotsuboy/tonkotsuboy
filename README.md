@@ -19,6 +19,9 @@ https://codepen.io/tonkotsuboy
 JavaScriptコードレシピ集<br>
 https://ics.media/entry/19765/
 
+今月発売の日経ソフトウェア2022年7月号「表現力をアップするWebコーディング術」<br>
+https://info.nikkeibp.co.jp/media/NSW/atcl/mag/051600042/
+
 日経ソフトウェア2021年9月号「最新CSS」<br>
 https://shop.nikkeibp.co.jp/front/commodity/0000/SW1256/
 
