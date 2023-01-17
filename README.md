@@ -1,3 +1,8 @@
+[![Likes](https://badgen.org/img/zenn/tonkotsuboy_com/likes?style=plastic)](https://zenn.dev/tonkotsuboy_com) [![Articles](https://badgen.org/img/zenn/tonkotsuboy_com/articles?style=plastic)](https://zenn.dev/tonkotsuboy_com)
+
+[![Contributions](https://badgen.org/img/qiita/tonkotsuboy_com/contributions?style=plastic)](https://qiita.com/tonkotsuboy_com) [![Articles](https://badgen.org/img/qiita/tonkotsuboy_com/articles?style=plastic)](https://qiita.com/tonkotsuboy_com)
+
+
 自己紹介<br>
 https://kano.codes/about
 
