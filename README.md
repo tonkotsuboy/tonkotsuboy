@@ -10,7 +10,7 @@
 - [Qiita](https://qiita.com/tonkotsuboy_com)
 - [codepen](https://codepen.io/tonkotsuboy)
 - [JavaScriptコードレシピ集](https://gihyo.jp/book/2019/978-4-297-10368-2)
-- [今月発売の日経ソフトウェア2022年7月号「表現力をアップするWebコーディング術」](https://info.nikkeibp.co.jp/media/NSW/atcl/mag/051600042/)
+- [日経ソフトウェア2022年7月号「表現力をアップするWebコーディング術」](https://info.nikkeibp.co.jp/media/NSW/atcl/mag/051600042/)
 - [日経ソフトウェア2021年9月号「最新CSS」](https://shop.nikkeibp.co.jp/front/commodity/0000/SW1256/)
 [日経ソフトウェア2020年9月号「JavaScript最新仕様 -ECMAScript2020-」](https://shop.nikkeibp.co.jp/front/commodity/0000/SW1250/)
 - [【新連載】アウトプットこそ最高のインプット。鹿野壮が語る「自分が一番トクする」アウトプットの力 - levtech lab](https://levtech.jp/media/article/column/detail_329/)
