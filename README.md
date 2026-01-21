@@ -1,7 +1,7 @@
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:7aa2f7,100:bb9af7&text=Takeshi%20Kano&desc=tonkotsuboy&fontSize=70&fontColor=ffffff&fontAlignY=40&descAlignY=60#gh-dark-mode-only" alt="Takeshi Kano Dark" />
-</div>
+# Takeshi Kano
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=300&color=FFFFFF&multiline=true&repeat=false&width=445&height=34&lines=tonkotsuboy)](https://git.io/typing-svg)
 
 
 I'm a **Full-stack Engineer** based in Tokyo, Japan, currently working at **[Ubie, Inc.](https://ubie.life/)**
