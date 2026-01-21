@@ -1,4 +1,4 @@
-# Hi there, I'm Takeshi Kano (tonkotsuboy) 👋
+# Takeshi Kano (tonkotsuboy)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:7aa2f7,100:bb9af7&text=Takeshi%20Kano&desc=Full-stack%20Engineer&fontSize=70&fontColor=ffffff&fontAlignY=40&descAlignY=60#gh-dark-mode-only" alt="Takeshi Kano Dark" />
@@ -26,6 +26,4 @@ I am passionate about Modern Web Development, UI/UX Design, and AI-driven Engine
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonkotsuboy&theme=tokyo-night" alt="Takeshi's github activity graph" />
 
-## 🔗 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kano.codes-000?style=for-the-badge&logo=firefox&logoColor=white)](https://kano.codes/) [![Twitter](https://img.shields.io/badge/Twitter-@tonkotsuboy__com-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tonkotsuboy_com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Takeshi%20Kano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonkotsuboy/) [![Zenn](https://img.shields.io/badge/Zenn-tonkotsuboy__com-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/tonkotsuboy_com) [![Qiita](https://img.shields.io/badge/Qiita-tonkotsuboy__com-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/tonkotsuboy_com) [![CodePen](https://img.shields.io/badge/CodePen-tonkotsuboy-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/tonkotsuboy)
