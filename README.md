@@ -1,9 +1,3 @@
-
-# Takeshi Kano
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=300&color=FFFFFF&multiline=true&repeat=false&width=445&height=34&lines=tonkotsuboy)](https://git.io/typing-svg)
-
-
 I'm a **Full-stack Engineer** based in Tokyo, Japan, currently working at **[Ubie, Inc.](https://ubie.life/)**
 I am passionate about Modern Web Development, UI/UX Design, and AI-driven Engineering.
 
