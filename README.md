@@ -22,6 +22,6 @@ I am passionate about Modern Web Development, UI/UX Design, and AI-driven Engine
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonkotsuboy&theme=tokyo-night" alt="Takeshi's github activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonkotsuboy&theme=tokyo-night&custom_title=Github%20activity%20graph&days=40" alt="Github activity graph" />
 
 
